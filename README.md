@@ -20,18 +20,29 @@
   Δομή φακέλων
 
   Restful_API/
+  
 ├── controllers
+
 ├── models
+
 ├── routes
+
 ├── middlewares
+
 ├── utils
+
 ├── data
+
 ├── app.js
+
 ├── package.json
 
 Εκτέλεση εφαρμογής
+
 	1.	Εγκατάσταση εξαρτήσεων:  npm install
-  2.	Δημιουργία αρχείου .env με τις απαραίτητες μεταβλητές (π.χ. DATABASE, JWT_SECRET)
+	
+    2.	Δημιουργία αρχείου .env με τις απαραίτητες μεταβλητές (π.χ. DATABASE, JWT_SECRET)
+     
 	3.	Εκκίνηση server: node app.js
 
 
