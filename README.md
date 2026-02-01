@@ -21,21 +21,21 @@
 
   Restful_API/
   
-├── controllers
+── controllers
 
-├── models
+── models
 
-├── routes
+── routes
 
-├── middlewares
+── middlewares
 
-├── utils
+── utils
 
-├── data
+── data
 
-├── app.js
+── app.js
 
-├── package.json
+── package.json
 
 Εκτέλεση εφαρμογής
 
